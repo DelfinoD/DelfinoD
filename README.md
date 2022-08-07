@@ -1,0 +1,2 @@
+- Hi, I’m Delfino
+- I’m interested in programming on FiveM
